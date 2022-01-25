@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SportingDot1024
 - 👀 I’m interested in competitive programming and help build projects.
+- 🌳 I have strong base in Python Language.
 - 🌱 I’m currently learning C, and Java.
 - 💞️ I’m looking to collaborate on anything suits my interests and related my feild of study.
 - 📫 You can reach me by mail(shriram_kannuri@outlook.com)
