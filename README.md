@@ -9,4 +9,4 @@ SportingDot1024/SportingDot1024 is a ✨ particular ✨ repository because its `
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/SportingDot1024/langs)](https://githubtrends.io)
